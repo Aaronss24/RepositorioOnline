@@ -1,1 +1,2 @@
-Esto es el archivo footer de new body cambiado online 
+
+Esto es el archivo footer del nuevo main cambiado en local despues del commit en el online
